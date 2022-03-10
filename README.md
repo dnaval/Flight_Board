@@ -6,7 +6,7 @@ This page display flight information similar to the system used in airports to d
 * Display Real Time Flights
 * Display Arrival and Departure Flight
 
-![laravel_api]()
+![laravel_api](https://github.com/dnaval/Flight_Board/blob/main/laravel_api.gif)
 
 ## Getting Started
 
